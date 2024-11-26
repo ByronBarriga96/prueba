@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/byron-alfredo-barriga-rivera-31294a210/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/ByronBarriga96"
+        },
+        {
+            "network" : "email",
+            "href": "byronbarrigar96@outlook.com"
+        },
+        {
+            "network" : "whatsapp",
+            "href": "+593983587969"
+        }
+    ]
+}

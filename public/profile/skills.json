@@ -1,0 +1,136 @@
+{
+    
+    "header": "Habilidades",
+    "intro": "Me gusta aprender cosas nuevas y experimentar con nuevas tecnologías.\nEstos son algunos de los principales lenguajes, tecnologías, herramientas y plataformas con los que he trabajado:",
+    "skills": [
+        {
+            "title" : "Herramientas & Plataformas",
+            "items": [
+                {
+                    "icon": "images/skills/vstudio.png",
+                    "title": "Visual Studio"
+                },
+                {
+                    "icon": "images/skills/vcode.png",
+                    "title": "V Code"
+                },
+                {
+                    "icon": "images/skills/sublime-text.png",
+                    "title": "Sublime Text"
+                },
+                {
+                    "icon": "images/skills/netbeans.png",
+                    "title": "Netbeans"
+                },
+                {
+                    "icon": "images/skills/postman.png",
+                    "title": "Postman"
+                },
+                {
+                    "icon": "images/skills/insomnia.png",
+                    "title": "Insomnia"
+                },
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/expo-go.png",
+                    "title": "Expo Go"
+                },
+                
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/github.png",
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "images/skills/powerbi.png",
+                    "title": "Power BI"
+                }
+            ]
+        },
+        {
+            "title": "Frameworks & Tecnologias",
+            "items" : [
+                {
+                    "icon": "images/skills/net.png",
+                    "title": ".Net Core"
+                },
+                {
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
+                },
+                {
+                    "icon": "images/skills/jsf.png",
+                    "title": "JavaServerFaces"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/angular.png",
+                    "title": "Angular"
+                },
+                {
+                    "icon": "images/skills/react-native.png",
+                    "title": "React Native"
+                },
+                {
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter"
+                },
+                {
+                    "icon": "images/skills/ionic.png",
+                    "title": "Ionic"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                }
+                
+            ]
+        },
+        {
+     
+            "title": "Lenguajes de Programacion & Base de Datos",
+            "items" : [
+                {
+                    "icon": "images/skills/c.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/sqlserver.png",
+                    "title": "SQL Server"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostgreSQL"
+                }
+        ]
+    }
+]}

@@ -1,0 +1,41 @@
+{
+    "header": "Formacion Academica",
+    "education":[
+        {
+            "title": "Agosto 2021 - Actualidad",
+            "cardTitle": "Independiente",
+            "cardSubtitle":"Autodidacta",
+            "cardDetailedText": "Cursos Online / Presencial",
+            "icon" : {
+                "src": "images/education/nerv.png"
+            }
+        },
+        {
+            "title": "Octubre 2014 - Marzo 2021",
+            "cardTitle": "Universidad Nacional de Chimborazo",
+            "cardSubtitle":"Ingeniero en Sistemas y Computacion",
+            "cardDetailedText": "Riobamba-Ecuador, 2021",
+            "icon" : {
+                "src": "images/education/unach.png"
+            }
+        },
+        {
+            "title": "Agosto 2013",
+            "cardTitle": "Colegio Experimental Cap. Edmundo Chiriboga",
+            "cardSubtitle":"Bachiller en Ciencias Fisico-Matematico",
+            "cardDetailedText": "Riobamba-Ecuador, 2013",
+            "icon" : {
+                "src": "images/education/chiriboga.png"
+            }
+        },
+        {
+            "title": "Junio 2007",
+            "cardTitle": "Unidad Educativa Cristiana VERBO",
+            "cardSubtitle":"Estudiante en Ciencias Basicas",
+            "cardDetailedText": "Riobamba-Ecuador, 2007",
+            "icon" : {
+                "src": "images/education/verbo.png"
+            }
+        }
+    ]
+}

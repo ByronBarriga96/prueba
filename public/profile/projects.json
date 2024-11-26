@@ -1,0 +1,119 @@
+{
+    "header": "Proyectos Realizados",
+    "projects" : [
+        {
+            "image" : "images/projects/atiendo.png",
+            "title": "Sistema Atiendo",
+            "bodyText": "- Plataforma destinada a la gestion de Tiendas Virtuales.\n - Modulo de Seguridad, Modulo de Inventarios, Modulo de Facturacion Electronica, Diseño y Construccion de Base de Datos.\n - Sistema desarrollado en C# .Net Framework 4.8, Angular 14 (TypeScript-Javascript) y base de datos en MySQL, con control de versiones en GitHub y con pruebas en Postman",
+            "tags" : [
+                "Angular",
+                "C#",
+                ".Net",
+                "Framework 4.8",
+                "MySQL",
+                "Angular",
+                "TypeScript",
+                "JavaScript",
+                "GitHub",
+                "Postman"
+            ]
+        },
+        {
+            "image" : "images/projects/farfalla.png",
+            "title": "Farfalla System",
+            "bodyText": "- Plataforma destinada a la administracion de Inventarios, Compras y Ventas de Joyas.\n - Modulo de Seguridad, Modulo de Inventarios, Modulo de Facturacion Electronica, Diseño y Construccion de Base de Datos.\n - Sistema desarrollado en PHP (Laravel 8), Javascript y base de datos en MySQL, con control de versiones en GitHub y con pruebas en Postman",
+            
+            "tags" : [
+                "PHP",
+                "Laravel 8",
+                "JavaScript",
+                "MySQL",
+                "Postman",
+                "GitHub"
+            ]
+        },
+        {
+            "image" : "images/projects/sistema-articulos.png",
+            "title": "Sistema de Gestion de Publicaciones Cientificas",
+            "bodyText": "- Desarrollo de Sistema Web para la gestion de Articulos Cientificos\n - Modulo de Gestion de Articulos, Modulo de Seguridad, Modulo de Reporteria\n - Sistema desarollado en C# MVC .Net Framework 4",
+
+            "tags" : [
+                "C#",
+                ".NET",
+                "Framework 4.5",
+                "MVC",
+                "Web",
+                "SQL Server"
+            ]
+        },
+        {
+            "image" : "images/projects/helppets.png",
+            "title": "Helping Pets",
+            "bodyText": "- App movil para la adopcion y esterilizacion de mascotas\n -.\n - Modulo de Esterilizacion, Control, Adopcion, Seguridad e integracion de Google Maps\n - Aplicacion desarollado en React Native y SQL Server",
+            "tags" : [
+                "React Native",
+                "Android",
+                "JavaScript",
+                "React",
+                "Movil",
+                "SQL Server"
+            ]
+        },
+        {
+            "image" : "images/projects/home-office.png",
+            "title": "Home Office System",
+            "bodyText": "- Plataforma destinada a multiservicios profesionales.\n - Modulo de Seguridad, Implementacion de **Factores de Autencidad**.\n - Sistema desarrollado en PHP con JavaScript",
+            
+            "tags" : [
+                "PHP",
+                "JavaScript",
+                "MVC",
+                "MySQL",
+                "Html",
+                "Postman",
+                "Git"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/allmightsystem.png",
+            "title": "All Might System",
+            "bodyText": "- Desarollo de un sistema de Registro de Catastros\n -  Sistema Diseñado en Capas con Java y PostgreSQL\n - Sistema de Escritorio",
+            
+            "tags" : [
+                "Java",
+                "PostgreSQL",
+                "N-Capas",
+                "Escritorio"
+            ]
+        },
+        {
+            "image" : "images/projects/sistema-perro.png",
+            "title": "Sistema Mascota Movil",
+            "bodyText": "- App movil para el control e inventario de mascotas de un centro de cuidado\n -.\n - Modulo de Inventario, Seguridad e integracion de Google Maps\n - Aplicacion desarollado en IONIC y PostgreSQL",
+            "tags" : [
+                "Ionic",
+                "Android",
+                "TypeScript",
+                "Angular",
+                "Movil",
+                "PostgreSQL"
+            ]
+        },
+        {            
+            "image" : "images/projects/sistema-hospice.png",
+            "title": "System Hospice",
+            "bodyText": "- Sistema de Historias Clinicas y difucion de Contenido de Hospice\n - Modulo de Historias Clinicas, Seguridad y Pagina Web de Difucion y conocimiento social\n - Aplicacion desarollado en JSF y PostgreSQL",
+            "tags" : [
+                "Java",
+                "JSF",
+                "PostgreSQL",
+                "MVC",
+                "Web"
+            ]
+        }
+        
+        
+        
+    ]
+}
